@@ -14,7 +14,7 @@
 
   <!-- ⚠️ แก้ artifactId เป็น lab8-{รหัสนักศึกษา}-sec{section} -->
   <groupId>com.example</groupId>
-  <artifactId>lab8-67XXXXXXXX-X-sec1</artifactId>
+  <artifactId>lab8-673380059-1-sec1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>lab8-product-shop</name>
   <description>Lab 8 — Product Shop 1:1 Relationship | CP353002</description>
